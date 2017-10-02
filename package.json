@@ -1,0 +1,19 @@
+{
+  "name": "basic-mmo-phaser",
+  "version": "1.0.0",
+  "description": "Very basic multiplayer online game example made with Phaser, Node.js and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qparker0204/phaser-tutorial-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qparker0204/phaser-tutorial-game/issues"
+  },
+  "homepage": "https://github.com/qparker0204/phaser-tutorial-game#readme"
+}
